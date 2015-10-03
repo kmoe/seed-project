@@ -1,0 +1,30 @@
+{
+  "parser": "babel-eslint",
+
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true,
+    "jasmine": true,
+    "amd": true
+  },
+
+  "rules": {
+    "quotes": [1, "single"],
+    "guard-for-in": 1,
+    "indent": [1, 2],
+    "brace-style": 1,
+    "no-underscore-dangle": 0,
+    "space-after-keywords": [1, "always"],
+    "strict": 0
+  },
+
+  "globals": {
+    "module": false,
+    "inject": false,
+    "browser": false,
+    "by": false,
+    "angular": false,
+    "sinon": false
+  }
+}
