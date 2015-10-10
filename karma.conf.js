@@ -54,8 +54,8 @@ module.exports = function(config) {
       module: {
         loaders: [
           {
-            test: /\.jsx?$/,
-            exclude: /(node_modules)/,
+            test: /\.js/,
+            exclude: /node_modules/,
             loader: 'babel'
           }
         ]
