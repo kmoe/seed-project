@@ -1,8 +1,8 @@
 {
   "name": "seed-project",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "seed project by katy",
-  "main": "index.js",
+  "main": "src/js/index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --inline",
     "test": "karma start karma.conf.js"
