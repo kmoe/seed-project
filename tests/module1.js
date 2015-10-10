@@ -1,3 +1,3 @@
 it('should work', function() {
-  console.log('module1 test');
+  expect(1 < 2).toBe(true);
 });
