@@ -1,1 +1,1 @@
-export default 'module1 string 2';
+export default 'module1 string 3';
