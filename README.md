@@ -10,7 +10,7 @@ Seed project with
 ## Installation and development
 
 ```
-npm install
+npm install && bower install
 npm start
 ```
 
