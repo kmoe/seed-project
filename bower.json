@@ -1,0 +1,22 @@
+{
+  "name": "seed-project",
+  "version": "0.2.0",
+  "homepage": "https://github.com/kmoe/seed-project",
+  "authors": [
+    "Katy Moe <katy@katy.moe>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "primer-css": "~2.3.5"
+  }
+}
