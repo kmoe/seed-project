@@ -4,6 +4,8 @@ Seed project with
 - webpack
 - hot reloading
 - Babel
+- unit tests (Jasmine)
+- Sass
 
 ## Installation and development
 
