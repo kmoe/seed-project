@@ -1,5 +1,5 @@
 import module1 from './module1';
-require('../../lib/scss/primer.scss');
+require('../../bower_components/primer-css/scss/primer.scss');
 require('../scss/base.scss');
 
 console.log(module1);
